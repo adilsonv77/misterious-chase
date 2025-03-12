@@ -1,0 +1,24 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ This asset was uploaded by https://unityassetcollection.com  
+								
+ If you find this package helpful and want to support us. 	
+ Please go to https://tinyurl.com/d0nat10n			
+ We really appreciate your help.				
+ Thank you.	
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+This pack contains 50 materials with 126 seamless textures that are ready to be used in your project.
+
+This pack is suitable for any outdoor or indoor scenes in your project.
+
+Features:
+Texture Sizes: 2048x2048px
+PBR
+Seamless Textures
+Perfect Tiling
+.PNG Format
+
+Supported Target Build Platforms: PC, MAC, PS4, Xbox One, Android and others.

@@ -1,0 +1,145 @@
+{
+    "m_SelectedDeviceId": "RQCW304Q0DD",
+    "m_SelectedPackage": {
+        "deviceId": "RQCW304Q0DD",
+        "name": "com.LuisFelipeSilva.MisteriousChase",
+        "processId": 3762,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "2b6305f20205",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 14628,
+            "exited": true
+        },
+        {
+            "deviceId": "2b6305f20205",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 21340,
+            "exited": true
+        },
+        {
+            "deviceId": "2b6305f20205",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 18564,
+            "exited": false
+        },
+        {
+            "deviceId": "2b6305f20205",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 28757,
+            "exited": false
+        },
+        {
+            "deviceId": "2b6305f20205",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 4492,
+            "exited": false
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.LuisFelipeSilva.MisteriousChase",
+            "processId": 31810,
+            "exited": true
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 32111,
+            "exited": true
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.LuisFelipeSilva.MisteriousChase",
+            "processId": 32648,
+            "exited": true
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.LuisFelipeSilva.MisteriousChase",
+            "processId": 1046,
+            "exited": true
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.LuisFelipeSilva.MisteriousChase",
+            "processId": 19693,
+            "exited": false
+        },
+        {
+            "deviceId": "RQCW304Q0DD",
+            "name": "com.LuisFelipeSilva.MisteriousChase",
+            "processId": 3762,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
